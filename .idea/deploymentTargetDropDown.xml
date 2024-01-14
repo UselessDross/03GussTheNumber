@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="AnimationExamplePreview">
+        <State />
+      </entry>
+      <entry key="FiniteShake">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="shake">
+        <State />
+      </entry>
+      <entry key="springShake">
+        <State />
+      </entry>
+      <entry key="uiLayout">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
